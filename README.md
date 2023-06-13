@@ -1,3 +1,3 @@
 # SM1_TRABALHO_FINAL
 
-<img src= "/SM1-ESQUEMATICO.PNG" >
+<img src= "SM1-ESQUEMATICO.png" >
